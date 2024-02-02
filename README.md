@@ -31,7 +31,8 @@ Sandra, cheffe de projet, est en charge de la digitalisation de l'entreprise ave
 > En plus de ça, voici [la maquette de la page sur Figma](https://www.figma.com/file/LY5VQTAqnrAf0bWObOBrt8/Les-petits-plats---Maquette-2.0?type=design&node-id=0-1&mode=design&t=S82AlpUQ1AbEUQMa-0), assure-toi de bien respecter le design à la lettre.  
 > Notre designer à préparé un prototype pour que tu puisses analyser le fonctionnement du site terminé.
 >
-> Ce que l’on veut avant tout c’est quelque chose de performant car nos utilisateurs veulent une recherche rapide, presque instantanée !  
+> Ce que l’on veut avant tout c’est quelque chose de performant car nos utilisateurs veulent une recherche rapide, presque instantanée !
+> >
 > Ton travail sera transmis au Back-end dans un second temps pour être adapté par leurs soins.  
 > C’est pourquoi il faudra que tu leur transmettes un document expliquant bien ton travail.
 >
