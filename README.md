@@ -6,7 +6,7 @@ Projet 7 "**Developpez un algorithme de recherche en JavaScript**" de la formati
 
 Vous êtes freelance et vous venez d’être missionné par l’entreprise “Les petits plats” en temps que Développeur Front-end pour une mission de 3 mois.
 
-<img alt="Logo Les Petits Plats" src="https://user.oc-static.com/upload/2020/08/14/15973932905401_logo%20%281%29.png" width="500" height="200" style="margin:auto;"/>
+<img alt="Logo Les Petits Plats" src="https://user.oc-static.com/upload/2020/08/14/15973932905401_logo%20%281%29.png" width="500" height="200" style="border:5px solid red;"/>
 
 Après avoir édité des livres de cuisine pendant plusieurs années, l’entreprise a décidé de se lancer dans un nouveau projet : réaliser son propre site de recettes de cuisine à l’instar de Marmiton ou 750g.
 
