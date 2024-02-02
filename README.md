@@ -8,7 +8,7 @@ Vous êtes freelance et vous venez d’être missionné par l’entreprise “Le
 
 <img alt="Logo Les Petits Plats" src="https://user.oc-static.com/upload/2020/08/14/15973932905401_logo%20%281%29.png" width="500" height="200"/>
 
->Après avoir édité des livres de cuisine pendant plusieurs années,
+> Après avoir édité des livres de cuisine pendant plusieurs années, 
 l’entreprise a décidé de se lancer dans un nouveau projet : réaliser son propre site de recettes de cuisine à l’instar de Marmiton ou 750g.
 
 Sandra, cheffe de projet, est en charge de la digitalisation de l'entreprise avec la création de ce site web. Pour l’instant, elle travaille uniquement avec des freelances comme vous, avant de créer une équipe en interne pour gérer ce projet. Afin de s’assurer que vous avez tout ce qu’il vous faut à disposition, elle vous envoie un mail : 
