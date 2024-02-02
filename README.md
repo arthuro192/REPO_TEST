@@ -6,7 +6,7 @@ Projet 7 "**Developpez un algorithme de recherche en JavaScript**" de la formati
 
 Vous êtes freelance et vous venez d’être missionné par l’entreprise “Les petits plats” en temps que Développeur Front-end pour une mission de 3 mois.
 
-<div style="display: flex;">
+<div style="display: flex; justify-content: center;">
 <img alt="Logo Les Petits Plats" src="https://user.oc-static.com/upload/2020/08/14/15973932905401_logo%20%281%29.png" width="500" height="200"/>
 </div>
 
