@@ -20,16 +20,11 @@ Sandra, cheffe de projet, est en charge de la digitalisation de l'entreprise ave
 >
 > Je suis ravie de t’avoir dans l’équipe pour cette nouvelle étape du projet.
 >
-> Comme tu le sais, les sites offrant des recettes de cuisine sont nombreux et l’équipe a pensé que l’un des éléments qui peuvent faire la
-> différence sur notre site est la fluidité du moteur de recherche.  
+> Comme tu le sais, les sites offrant des recettes de cuisine sont nombreux et l’équipe a pensé que l’un des éléments qui peuvent faire la différence sur notre site est la fluidité du moteur de recherche.  
 >
-> L’équipe Back-end n’étant pas encore formée, nous disposons uniquement d’un [fichier JavaScript contenant un tableau JSON de 50 recettes](https://github.com/OpenClassrooms-Student-Center/PetitsPlats2.0).
-> Tu trouveras dans ce dossier 50 images pour les recettes. Elles ne sont pas celles définitives mais elles te permettront d’avoir un rendu fidèle à la maquette.
+> L’équipe Back-end n’étant pas encore formée, nous disposons uniquement d’un [fichier JavaScript contenant un tableau JSON de 50 recettes](https://github.com/OpenClassrooms-Student-Center/PetitsPlats2.0). Tu trouveras dans ce dossier 50 images pour les recettes. Elles ne sont pas celles définitives mais elles te permettront d’avoir un rendu fidèle à la maquette.
 >
-> Ta première mission sera donc d’implémenter la fonctionnalité de recherche. Tu trouveras ici [la description du cas d’utilisation de
-> recherche](https://course.oc-static.com/projects/516_JS/P7/Cas+d%E2%80%99utilisation+%2303+_+Filtrer+les+recettes+dans+l%E2%80%99interface+utilisateur+-+Front-end+P6+(Algorithms)+.pdf). C’est ce document qui te servira de référence pour tout le développement de cette
-> fonctionnalité. En plus de ça, voici [la maquette de la page sur Figma](https://www.figma.com/file/LY5VQTAqnrAf0bWObOBrt8/Les-petits-plats---Maquette-2.0?type=design&node-id=0-1&mode=design&t=S82AlpUQ1AbEUQMa-0), assure-toi de bien respecter le design à la
-> lettre. Notre designer à préparé un prototype pour que tu puisses analyser le fonctionnement du site terminé.
+> Ta première mission sera donc d’implémenter la fonctionnalité de recherche. Tu trouveras ici [la description du cas d’utilisation de recherche](https://course.oc-static.com/projects/516_JS/P7/Cas+d%E2%80%99utilisation+%2303+_+Filtrer+les+recettes+dans+l%E2%80%99interface+utilisateur+-+Front-end+P6+(Algorithms)+.pdf). C’est ce document qui te servira de référence pour tout le développement de cette fonctionnalité. En plus de ça, voici [la maquette de la page sur Figma](https://www.figma.com/file/LY5VQTAqnrAf0bWObOBrt8/Les-petits-plats---Maquette-2.0?type=design&node-id=0-1&mode=design&t=S82AlpUQ1AbEUQMa-0), assure-toi de bien respecter le design à la lettre. Notre designer à préparé un prototype pour que tu puisses analyser le fonctionnement du site terminé.
 >
 > Ce que l’on veut avant tout c’est quelque chose de performant car nos utilisateurs veulent une recherche rapide, presque instantanée !
 > Ton travail sera transmis au Back-end dans un second temps pour être adapté par leurs soins.
