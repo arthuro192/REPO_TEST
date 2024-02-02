@@ -24,8 +24,7 @@ Sandra, cheffe de projet, est en charge de la digitalisation de l'entreprise ave
 > différence sur notre site est la fluidité du moteur de recherche.  
 >
 > L’équipe Back-end n’étant pas encore formée, nous disposons uniquement d’un [fichier JavaScript contenant un tableau JSON de 50 recettes](https://github.com/OpenClassrooms-Student-Center/PetitsPlats2.0).
-> Tu trouveras dans ce dossier 50 images pour les recettes.  
-> Elles ne sont pas celles définitives mais elles te permettront d’avoir un rendu fidèle à la maquette.
+> Tu trouveras dans ce dossier 50 images pour les recettes. Elles ne sont pas celles définitives mais elles te permettront d’avoir un rendu fidèle à la maquette.
 >
 > Ta première mission sera donc d’implémenter la fonctionnalité de recherche. Tu trouveras ici [la description du cas d’utilisation de
 > recherche](https://course.oc-static.com/projects/516_JS/P7/Cas+d%E2%80%99utilisation+%2303+_+Filtrer+les+recettes+dans+l%E2%80%99interface+utilisateur+-+Front-end+P6+(Algorithms)+.pdf). C’est ce document qui te servira de référence pour tout le développement de cette
@@ -35,6 +34,7 @@ Sandra, cheffe de projet, est en charge de la digitalisation de l'entreprise ave
 > Ce que l’on veut avant tout c’est quelque chose de performant car nos utilisateurs veulent une recherche rapide, presque instantanée !
 > Ton travail sera transmis au Back-end dans un second temps pour être adapté par leurs soins.
 > C’est pourquoi il faudra que tu leur transmettes un document expliquant bien ton travail.
+>
 > Je te laisse voir comment procéder en détail directement avec Jean-Baptiste.
 >
 > Sandra
