@@ -21,9 +21,9 @@ Sandra, cheffe de projet, est en charge de la digitalisation de l'entreprise ave
 > Je suis ravie de t’avoir dans l’équipe pour cette nouvelle étape du projet. 
 >
 > Comme tu le sais, les sites offrant des recettes de cuisine sont nombreux et l’équipe a pensé que l’un des éléments qui peuvent faire la
-> différence sur notre site est la fluidité du moteur de recherche. L’équipe Back-end n’étant pas encore formée, nous disposons uniquement
-> d’un [fichier JavaScript contenant un tableau JSON de 50 recettes](https://github.com/OpenClassrooms-Student-Center/PetitsPlats2.0). 
+> différence sur notre site est la fluidité du moteur de recherche.  
 >
+> L’équipe Back-end n’étant pas encore formée, nous disposons uniquement d’un [fichier JavaScript contenant un tableau JSON de 50 recettes](https://github.com/OpenClassrooms-Student-Center/PetitsPlats2.0).
 > Tu trouveras dans ce dossier 50 images pour les recettes.  
 > Elles ne sont pas celles définitives mais elles te permettront d’avoir un rendu fidèle à la maquette.
 >
@@ -35,7 +35,7 @@ Sandra, cheffe de projet, est en charge de la digitalisation de l'entreprise ave
 > Ce que l’on veut avant tout c’est quelque chose de performant car nos utilisateurs veulent une recherche rapide, presque instantanée !
 > Ton travail sera transmis au Back-end dans un second temps pour être adapté par leurs soins.
 > C’est pourquoi il faudra que tu leur transmettes un document expliquant bien ton travail.
-> Je te laisse > voir comment procéder en détail directement avec Jean-Baptiste.
+> Je te laisse voir comment procéder en détail directement avec Jean-Baptiste.
 >
 > Sandra
 
