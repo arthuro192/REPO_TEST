@@ -16,7 +16,7 @@ Sandra, cheffe de projet, est en charge de la digitalisation de l'entreprise ave
 > **De :** Sandra  
 > **À :** moi  
 >
-> Bonjour,  
+> Bonjour,   
 > Je suis ravie de t’avoir dans l’équipe pour cette nouvelle étape du projet. 
 >
 > Comme tu le sais, les sites offrant des recettes de cuisine sont nombreux et l’équipe a pensé que l’un des éléments qui peuvent faire la
