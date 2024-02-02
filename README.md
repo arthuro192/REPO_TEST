@@ -43,13 +43,12 @@ En fin de matinée, vous recevez une notification Slack de Jean-Baptiste, votre 
 
 > **JB :**
 >
-> Salut ! Comme tu as pu le voir, la recherche est une fonctionnalité très importante pour l’équipe et on compte sur toi pour la développer d’une manière optimale.  
-> Dans notre équipe, pour tout algorithme important qu’on développe, on a pour habitude d’en faire deux implémentations différentes pour pouvoir comparer leurs performances et choisir la meilleure.
+> Salut ! Comme tu as pu le voir, la recherche est une fonctionnalité très importante pour l’équipe et on compte sur toi pour la développer d’une manière optimale. Dans notre équipe, pour tout algorithme important qu’on développe, on a pour habitude d’en faire deux implémentations différentes pour pouvoir comparer leurs performances et choisir la meilleure.
 >
-> Il faudra donc que tu fasses de même !  
+> Il faudra donc que tu fasses de même !
+>
 > Pour ça il faudra que tu crées un document de comparaison qu’on appelle “fiche d’investigation de fonctionnalité”.  
-> Nous avons récemment fait ça pour la fonctionnalité "connexion / inscription" dont voici le résultat.
->
+> Nous avons récemment fait ça pour la fonctionnalité "connexion / inscription" dont voici le résultat.  
 > Donc réutilise directement le même modèle de document.
 >
 > **Vous :**
@@ -71,8 +70,7 @@ En fin de matinée, vous recevez une notification Slack de Jean-Baptiste, votre 
 >
 > Ces deux implémentations doivent se focaliser uniquement sur le champ de recherche principal.
 >
-> N’oublie pas de faire un schéma, ou "algorigramme", pour chacune des propositions *(les deux implémentations peuvent avoir le même algorigramme)* afin qu’on comprenne bien l'enchaînement des étapes de chacun des algorithmes, cela sera surtout utile à l’équipe Back-end.  
-> Tu peux te baser sur les schémas présents dans la fiche d’investigation de la fonctionnalité de Connexion/Inscription mais utilise le formatage que tu veux. Moi j'utilise draw.io pour faire mes schémas, c'est très pratique et gratuit.
+> N’oublie pas de faire un schéma, ou "algorigramme", pour chacune des propositions *(les deux implémentations peuvent avoir le même algorigramme)* afin qu’on comprenne bien l'enchaînement des étapes de chacun des algorithmes, cela sera surtout utile à l’équipe Back-end. Tu peux te baser sur les schémas présents dans la fiche d’investigation de la fonctionnalité de Connexion/Inscription mais utilise le formatage que tu veux. Moi j'utilise draw.io pour faire mes schémas, c'est très pratique et gratuit.
 >
 > **Vous :**
 >
@@ -80,17 +78,16 @@ En fin de matinée, vous recevez une notification Slack de Jean-Baptiste, votre 
 >
 > **JB :**
 >
-> Exactement, deuxième étape : tu les implémentes tous les deux.  
+> Exactement, deuxième étape : tu les implémentes tous les deux.
+>
 > Pour ça, utilise 2 branches différentes sur Git afin qu’on conserve bien le code séparé pour chacun.  
 > Pour ton implémentation, toutes les infos techniques sont sur le document du cas d’utilisation que t’a envoyé Sandra.  
 > Pour les recherches par tag, tu pourras utiliser une seule et même version de la recherche pour les 2 branches.
 >
-> Quand tu implémenteras ton code :
+> Quand tu implémenteras ton code, respecte les bonnes pratiques de Green Code :  
 >
-> respecte les bonnes pratiques de Green Code :  
->
-> découpe ton code au maximum en fonctions réutilisables, par exemple pour les cartes des recettes ou encore la génération des listes de tags ;  
-> fais attention au risque d’injection de balises html ou toute autre faille de sécurité  dans le site via les formulaires.
+> - découpe ton code au max en fonctions réutilisables, par ex pour les cartes des recettes ou encore la génération des listes de tags ;  
+> - fais attention au risque d’injection de balises html ou toute autre faille de sécurité  dans le site via les formulaires.
 >
 > **Vous :**
 >
@@ -102,8 +99,7 @@ En fin de matinée, vous recevez une notification Slack de Jean-Baptiste, votre 
 > Pour choisir le meilleur algorithme, il faut que tu testes leur performance.
 >
 > Pour ça, tu peux utiliser l’outil de comparaison de performance que tu veux, personnellement j’utilise Jsben.ch pour ce genre d’analyse.  
-> Il te donnera le nombre d’opérations par seconde réalisées par chaque script et te permet donc de voir en un clin d’œil quel script est le plus performant.  
-> Tu peux tester uniquement la recherche principale *(pas besoin d’utiliser les filtres)*.
+> Il te donnera le nombre d’opérations par seconde réalisées par chaque script et te permet donc de voir en un clin d’œil quel script est le plus performant. Tu peux tester uniquement la recherche principale *(pas besoin d’utiliser les filtres)*.
 >
 > Ajoute ensuite les résultats à la fiche d’investigation de fonctionnalité que tu auras rédigée.  
 > N’oublie pas de terminer le document par la recommandation d’algorithme à garder suite à ton analyse et tes tests.
