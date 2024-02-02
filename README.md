@@ -12,10 +12,10 @@ Après avoir édité des livres de cuisine pendant plusieurs années, l’entrep
 
 Sandra, cheffe de projet, est en charge de la digitalisation de l'entreprise avec la création de ce site web. Pour l’instant, elle travaille uniquement avec des freelances comme vous, avant de créer une équipe en interne pour gérer ce projet. Afin de s’assurer que vous avez tout ce qu’il vous faut à disposition, elle vous envoie un mail : 
 
-> **Objet :** Détails algo de recherche
-> **De :** Sandra
-> **À :** moi
->
+> **Objet :** Détails algo de recherche 
+> **De :** Sandra 
+> **À :** moi 
+
 > Bonjour, 
 >
 > Je suis ravie de t’avoir dans l’équipe pour cette nouvelle étape du projet. 
